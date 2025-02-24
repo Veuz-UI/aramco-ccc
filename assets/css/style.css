@@ -12978,7 +12978,7 @@ li.has-dropdown:hover .submenu {
 }
 @media only screen and (max-width: 575px) {
   .banner-wrapper-one .title {
-    font-size: 48px;
+    font-size: 38px;
   }
 }
 .banner-wrapper-one .title span {
@@ -19848,7 +19848,7 @@ body.modal-open {
 
 @media only screen and (max-width: 575px) {
   .logo-area img {
-    width: 80px;
+    width: 130px;
   }
   .px-100{
     padding: 40px 0px;
