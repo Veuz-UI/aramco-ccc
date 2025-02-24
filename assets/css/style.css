@@ -14142,6 +14142,10 @@ li.has-dropdown:hover .submenu {
   stroke: var(--color-primary);
 }
 
+.single p{
+  margin-bottom: 10px;
+}
+
 .title-center-2 {
   text-align: center;
   max-width: 952px;
